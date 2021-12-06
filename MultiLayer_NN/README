@@ -1,1 +1,9 @@
 This folder contains code for implementing Multi-Layer Neural Network and it's test case file.
+
+To run this file, 
+if we open the file in Visual Code or pycharm we can directly run the code by hitting on the run.
+if the file is saved in a folder, we can run the code through terminal(mac) or command prompt(windows)
+1. open the command prompt
+2. go to the directory wher file is saved
+3. type "python filename.py" to run the main py file
+4. on the same directory type "pytest -sv" to run test file.
